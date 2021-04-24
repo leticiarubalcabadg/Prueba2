@@ -1,0 +1,17 @@
+title: VocabulariosFEMP
+layout: single
+
+      
+      
+author:
+  name   : "Bicicleta"
+  avatar : "img/bicicleta.png"
+  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  links:
+    - label: "Ciudades Abiertas web"
+      icon: "fas fa-fw fa-link"
+      url: "https://ciudadesabiertas.es/vocabularios/#Descripci%C3%B3n"
+    - label: "GitHub OpenCity"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/opencitydata/"
+
