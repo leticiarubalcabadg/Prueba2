@@ -7,7 +7,6 @@ author_profile: true
 title: false
 ---
 <div id="bodyid">
-<link href="stylesheet.css" rel="stylesheet"/>
 
 <h1> VOCABULARIO BICICLETA </h1>
 </div>
